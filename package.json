@@ -165,7 +165,7 @@
     "eslint-plugin-qunit": "^8.1.1",
     "html-entities": "^2.5.2",
     "loader.js": "^4.7.0",
-    "node-fetch": "^2.6.12",
+    "node-fetch": "^3.3.2",
     "postcss": "^8.4.38",
     "postcss-import": "^16.1.0",
     "prember": "^2.0.0",
